@@ -1,4 +1,5 @@
 # Security-Dashboard-in-Peru (Group 3)
+![](https://raw.githubusercontent.com/LeonardoDanielMR/Security-Dashboard-in-Peru/main/PowerBiDashboardVictimsReports.png)
 ## Data 
 The idea of this project is to demonstrate the viability of the public policy **"Implementation of a crime prevention program in vulnerable communities in Perú"**.  
 In order to this we used two datasets of the year 2017 related with police reporsts provided by **INEI**.  
